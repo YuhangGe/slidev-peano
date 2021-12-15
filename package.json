@@ -1,0 +1,16 @@
+{
+  "name": "peano",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.27.20",
+    "@slidev/theme-default": "0.21.1",
+    "@slidev/theme-seriph": "0.21.1",
+    "@slidev/theme-bricks": "^0.0.2"
+  }
+}
